@@ -1,0 +1,17 @@
+{
+    "name": "shasoft/test-gitea",
+    "type": "library",
+    "description": "Test package",
+    "keywords": [
+        "test",
+        "debug"
+    ],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Shabanov Valera",
+            "email": "shasoft_test-gitea@shasoft.com"
+        }
+    ]
+}
